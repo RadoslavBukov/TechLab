@@ -10,11 +10,22 @@
       <change afterPath="$PROJECT_DIR$/../Python Basics/Ex_9 For-Loop/.idea/Ex_9 For-Loop.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Python OOP/.idea/Python OOP.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../StrypesLab/.idea/StrypesLab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.lists/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.lists/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.lists/task4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,7 +43,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2.lists" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bukov\PycharmProjects\pythonProject\TechLab\2.lists" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
