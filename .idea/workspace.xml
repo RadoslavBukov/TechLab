@@ -10,12 +10,6 @@
       <change afterPath="$PROJECT_DIR$/../Python Basics/Ex_9 For-Loop/.idea/Ex_9 For-Loop.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Python OOP/.idea/Python OOP.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../StrypesLab/.idea/StrypesLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.lists/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.lists/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.lists/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.strings/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.strings/task1_translate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.strings/task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,12 +40,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/3.strings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/4.dictionaries" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bukov\PycharmProjects\pythonProject\TechLab\4.dictionaries" />
       <recent name="C:\Users\bukov\PycharmProjects\pythonProject\TechLab\3.strings" />
       <recent name="C:\Users\bukov\PycharmProjects\pythonProject\TechLab\2.lists" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bukov\PycharmProjects\pythonProject\TechLab\4.dictionaries" />
     </key>
   </component>
   <component name="RunManager">
