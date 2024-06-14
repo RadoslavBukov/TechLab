@@ -1,0 +1,9 @@
+alien
+bus
+computer
+form
+glass
+house
+qwerty
+table
+word
