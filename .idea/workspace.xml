@@ -31,15 +31,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/9.files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../youtube_downloader" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bukov\PycharmProjects\pythonProject\TechLab\10.tkinter" />
       <recent name="C:\Users\bukov\PycharmProjects\pythonProject\TechLab\9.files" />
       <recent name="C:\Users\bukov\PycharmProjects\pythonProject\TechLab\8.exeption_testing" />
       <recent name="C:\Users\bukov\PycharmProjects\pythonProject\TechLab\7.magic_methods" />
       <recent name="C:\Users\bukov\PycharmProjects\pythonProject\TechLab\6.OOP" />
-      <recent name="C:\Users\bukov\PycharmProjects\pythonProject\TechLab\5.functions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bukov\PycharmProjects\pythonProject\TechLab\4.dictionaries" />
@@ -115,16 +115,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
